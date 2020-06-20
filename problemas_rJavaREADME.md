@@ -11,6 +11,7 @@ mensagem: "erro: impossível carregar objeto compartilhamento 'C:/Users/Katharin
 agora é só seguir os passos abaixo: 
 
 > **install.packages("rJava")**
+
 será exibidada essa mensagem: 
 
  <package ‘rJava’ successfully unpacked and MD5 sums checked
@@ -19,7 +20,7 @@ será exibidada essa mensagem:
         C:\Users\Katharine\AppData\Local\Temp\RtmpKQJByy\downloaded_packages>
  
 para windows 10: procure por Variaveis de Ambiente -> Variaveis do Sistema e clica em "Novo"
-Nome da Variavel: JAVA_HOME and Valor da Variavel: C:\Program Files\Java\jre1.8.0_251
+Nome da Variavel: JAVA_HOME e Valor da Variavel: C:\Program Files\Java\jre1.8.0_251
 agora é só seguir os comandos abaixo:
 
 > **Sys.setenv(JAVA_HOME="C:/Program Files/Java/jdk-14.0.1")**
