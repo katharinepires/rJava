@@ -1,8 +1,8 @@
 #Trying to install rJava and having problems with the load of library(rJava)
 #the message: "erro: JAVA_HOME cannot be determined from the Registry"
 #the message: "erro: impossível carregar objeto compartilhamento 'C:/Users/Katharine/Documents/R/win-library/4.0/rJava/libs/x64/rJava.dll':"
-#it's nacessery already have the Java Run Time and the JDK installed
-#now it's only to fallow theses stps below: 
+#it'necessary to already have the Java Run Time and the JDK installed
+#now it's only to follow these steps below: 
 
 > install.packages("rJava")
 # this message will show up: <package ‘rJava’ successfully unpacked and MD5 sums checked
